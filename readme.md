@@ -1,4 +1,4 @@
-#App Development
+App Development
 
 
 iOS Games written in Lua - 2015
