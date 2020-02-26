@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Unknown</string>
+	<key>Buffer Order</key>
+	<array>
+		<string>Donate</string>
+		<string>Levels</string>
+		<string>Finished</string>
+		<string>Gameover</string>
+		<string>LevelSelect</string>
+		<string>Main</string>
+		<string>Title</string>
+		<string>Help</string>
+		<string>Playing</string>
+		<string>Moon</string>
+		<string>Pause</string>
+		<string>Timer</string>
+		<string>Particles</string>
+		<string>Ufo</string>
+		<string>Aliens</string>
+		<string>Gun</string>
+		<string>AutoGun</string>
+	</array>
+	<key>Created</key>
+	<string>2014-08-09 17:55:27 +0000</string>
+	<key>Description</key>
+	<string>No description available</string>
+</dict>
+</plist>
