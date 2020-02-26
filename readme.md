@@ -1,6 +1,13 @@
-App Development
+# App Development
+---
+
+## iOS Games 
+Written in Lua in 2015
+
+An excercise in deploying to appstore and having some fun making games.
 
 
-iOS Games written in Lua - 2015
+## React Native Login Screen
+Written in ReactNative/js in 2019
 
-React Native Login Screen - 2019
+Practice using ReactNative, Expo, and Backendless database.
